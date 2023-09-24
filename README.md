@@ -1,0 +1,1 @@
+# Cow-Disease-Detection
